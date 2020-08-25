@@ -4,7 +4,7 @@ using namespace std;
 void imprimir(int a[]);
 void insercion(int a[]);
 void suma(int a[]);
-ofstream archivo;
+ofstream archivo;//variable para archivos como global
 
 int main() {  
   archivo.open("ordenamiento.txt", ios::app);
