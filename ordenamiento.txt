@@ -1,0 +1,6 @@
+Elementos originales: 
+[8]	[6]	[3]	[2]	[1]	
+Elementos ordenados: 
+[1]	[2]	[3]	[6]	[8]	
+La suma es: 20
+El numero de elementos es: 5
